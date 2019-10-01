@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buttons>
+
+<animation>//android.widget.TextView[@text='Animation']</animation>
+<show_animations>//android.widget.TextView[@text='Hide-Show Animations']</show_animations>
+<hide_checkbox>//android.widget.CheckBox[@text='Hide (GONE)']</hide_checkbox>
+<zero_button>//android.widget.Button[@text='0']</zero_button>
+<first_button>//android.widget.Button[@text='1']</first_button>
+<second_button>//android.widget.Button[@text='2']</second_button>
+<third_button>//android.widget.Button[@text='3']</third_button>
+<show_button>//android.widget.Button[@text='Show Buttons']</show_button>
+<app>//android.widget.TextView[@text='App']</app>
+<bar>//android.widget.TextView[@text='Action Bar']</bar>
+<display_option>//android.widget.TextView[@text='Display Options']</display_option>
+<show_titlebar>//android.widget.Button[@text='DISPLAY_SHOW_TITLE']</show_titlebar>
+<title>//android.view.ViewGroup[@index='0']/android.widget.TextView[@index='0']</title>
+
+</buttons>

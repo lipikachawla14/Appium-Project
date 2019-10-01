@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44016" started-at="2019-10-01T09:58:31Z" finished-at="2019-10-01T09:59:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44016" started-at="2019-10-01T09:58:31Z" finished-at="2019-10-01T09:59:15Z">
+      <class name="TestCases.ActionBarTestCase">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:TestCases.ActionBarTestCase@4923ab24]" name="appLaunch" is-config="true" duration-ms="11613" started-at="2019-10-01T15:28:31Z" finished-at="2019-10-01T15:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="check()[pri:0, instance:TestCases.ActionBarTestCase@4923ab24]" name="check" duration-ms="10352" started-at="2019-10-01T15:28:43Z" finished-at="2019-10-01T15:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:TestCases.ActionBarTestCase@4923ab24]" name="refresh" is-config="true" duration-ms="271" started-at="2019-10-01T15:28:53Z" finished-at="2019-10-01T15:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.ActionBarTestCase@4923ab24]" name="closeBrowser" is-config="true" duration-ms="657" started-at="2019-10-01T15:28:53Z" finished-at="2019-10-01T15:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:TestCases.ActionBarTestCase@4923ab24]" name="stop" is-config="true" duration-ms="1" started-at="2019-10-01T15:29:15Z" finished-at="2019-10-01T15:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:TestCases.ShowButtonTestCase@670b40af]" name="stop" is-config="true" duration-ms="0" started-at="2019-10-01T15:29:15Z" finished-at="2019-10-01T15:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- TestCases.ActionBarTestCase -->
+      <class name="TestCases.ShowButtonTestCase">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:TestCases.ShowButtonTestCase@670b40af]" name="appLaunch" is-config="true" duration-ms="10268" started-at="2019-10-01T15:28:54Z" finished-at="2019-10-01T15:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="test()[pri:1, instance:TestCases.ShowButtonTestCase@670b40af]" name="test" duration-ms="8794" started-at="2019-10-01T15:29:04Z" finished-at="2019-10-01T15:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:TestCases.ShowButtonTestCase@670b40af]" name="refresh" is-config="true" duration-ms="54" started-at="2019-10-01T15:29:13Z" finished-at="2019-10-01T15:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="verify()[pri:2, instance:TestCases.ShowButtonTestCase@670b40af]" name="verify" duration-ms="1336" started-at="2019-10-01T15:29:13Z" finished-at="2019-10-01T15:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:TestCases.ShowButtonTestCase@670b40af]" name="refresh" is-config="true" duration-ms="23" started-at="2019-10-01T15:29:14Z" finished-at="2019-10-01T15:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.ShowButtonTestCase@670b40af]" name="closeBrowser" is-config="true" duration-ms="622" started-at="2019-10-01T15:29:15Z" finished-at="2019-10-01T15:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.ShowButtonTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
